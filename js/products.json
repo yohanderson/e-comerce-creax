@@ -1,0 +1,153 @@
+[
+  {
+    "id": "ZENBOOK-PRO",
+    "titule": "ZENBOOK PRO",
+    "image": "./img/laptos/zenbook.jpg",
+    "category": {
+      "name": "Laptos",
+      "id": "laptos"
+    },
+    "price": 1200
+  },
+  {
+    "id": "HP-ELITE",
+    "titule": "HP ELITE",
+    "image": "./img/laptos/hpelite.jpg",
+    "category": {
+      "name": "Laptos",
+      "id": "laptos"
+    },
+    "price": 800
+  },
+  {
+    "id": "LENOVO-YOGA",
+    "titule": "LENOVO YOGA",
+    "image": "./img/laptos/lenovo.jpg",
+    "category": {
+      "name": "Laptos",
+      "id": "laptos"
+    },
+    "price": 980
+  },
+  {
+    "id": "SURFACE-PRO-7",
+    "titule": "SURFACE PRO 7",
+    "image": "./img/laptos/surface.jpg",
+    "category": {
+      "name": "Laptos",
+      "id": "laptos"
+    },
+    "price": 860
+  },
+  {
+    "id": "MATEBOOK-X-PRO",
+    "titule": "MATEBOOK X PRO",
+    "image": "./img/laptos/LaptopsHuawei.jpg",
+    "category": {
+      "name": "Laptos",
+      "id": "laptos"
+    },
+    "price": 1322
+  },
+  {
+    "id": "Gaming-Tower-PC",
+    "titule": "Gaming Tower PC",
+    "image": "./img/pc/01.jpg",
+    "category": {
+      "name": "PC",
+      "id": "pcs"
+    },
+    "price": 750
+  },
+  {
+    "id": "Dell-OptiPlex-7040",
+    "titule": "Dellhones 7040",
+    "image": "./img/pc/02.jpg",
+    "category": {
+      "name": "PC",
+      "id": "pcs"
+    },
+    "price": 220
+  },
+
+  {
+    "id": "Acer-Aspire",
+    "titule": "ACER ASPIRE",
+    "image": "./img/pc/03.jpg",
+    "category": {
+      "name": "PC",
+      "id": "pcs"
+    },
+    "price": 160
+  },
+  {
+    "id": " OPTIPLEX-390-DT",
+    "titule": " OPTIPLEX 390 DT",
+    "image": "./img/pc/04.jpg",
+    "category": {
+      "name": "PC",
+      "id": "pcs"
+    },
+    "price": 250
+  },
+  {
+    "id": "HeroBox-Mini-PC",
+    "titule": "HeroBox Mini PC",
+    "image": "./img/pc/05.jpg",
+    "category": {
+      "name": "PC",
+      "id": "pcs"
+    },
+    "price": 180
+  },
+  {
+    "id": "SAMSUNG-Galaxy",
+    "titule": "Galaxy Z Fold 4",
+    "image": "./img/phones/01.jpg",
+    "category": {
+      "name": "Phones",
+      "id": "phones"
+    },
+    "price": 1400
+  },
+  {
+    "id": "Xiaomi-Poco-X5",
+    "titule": "Xiaomi Poco X5",
+    "image": "./img/phones/02.jpg",
+    "category": {
+      "name": "Phones",
+      "id": "phones"
+    },
+    "price": 345
+  },
+  {
+    "id": "ASUS-ROG",
+    "titule": "ASUS ROG",
+    "image": "./img/phones/03.jpg",
+    "category": {
+      "name": "Phones",
+      "id": "phones"
+    },
+    "price": 895
+  },
+  {
+    "id": "Realme-7-4G",
+    "titule": "Realme 7 4G",
+    "image": "./img/phones/04.jpg",
+    "category": {
+      "name": "Phones",
+      "id": "phones"
+    },
+    "price": 289
+  },
+  {
+    "id": "Moto-G-Stylus",
+    "titule": "Moto G Stylus",
+    "image": "./img/phones/05.jpg",
+    "category": {
+      "name": "Phones",
+      "id": "phones"
+    },
+    "price": 180
+  }
+]
