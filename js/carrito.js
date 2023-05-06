@@ -25,7 +25,6 @@ const cartTableSpecifications = document.querySelector(".cart-table-specificatio
 
 function loadProductsCart() {
   if (productsInCart && productsInCart.length > 0) {
-    cartTableSpecifications.classList.remove("disabled");
     containerCartEmpty.classList.add("disabled");
     containerCartProducts.classList.remove("disabled");
     containerCartActions.classList.remove("disabled");
@@ -63,7 +62,6 @@ function loadProductsCart() {
     updateButtonsDelete();
     updateTotal();
   } else {
-    cartTableSpecifications.classList.add("disabled");
     containerCartEmpty.classList.remove("disabled");
     containerCartProducts.classList.add("disabled");
     containerCartActions.classList.add("disabled");
