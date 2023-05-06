@@ -2,7 +2,7 @@
   {
     "id": "ZENBOOK-PRO",
     "titule": "ZENBOOK PRO",
-    "image": "./img/laptos/zenbook.jpg",
+    "image": "./source/img/laptos/zenbook.jpg",
     "category": {
       "name": "Laptos",
       "id": "laptos"
@@ -12,7 +12,7 @@
   {
     "id": "HP-ELITE",
     "titule": "HP ELITE",
-    "image": "./img/laptos/hpelite.jpg",
+    "image": "./source/img/laptos/hpelite.jpg",
     "category": {
       "name": "Laptos",
       "id": "laptos"
@@ -22,7 +22,7 @@
   {
     "id": "LENOVO-YOGA",
     "titule": "LENOVO YOGA",
-    "image": "./img/laptos/lenovo.jpg",
+    "image": "./source/img/laptos/lenovo.jpg",
     "category": {
       "name": "Laptos",
       "id": "laptos"
@@ -32,7 +32,7 @@
   {
     "id": "SURFACE-PRO-7",
     "titule": "SURFACE PRO 7",
-    "image": "./img/laptos/surface.jpg",
+    "image": "./source/img/laptos/surface.jpg",
     "category": {
       "name": "Laptos",
       "id": "laptos"
@@ -42,7 +42,7 @@
   {
     "id": "MATEBOOK-X-PRO",
     "titule": "MATEBOOK X PRO",
-    "image": "./img/laptos/LaptopsHuawei.jpg",
+    "image": "./source/img/laptos/LaptopsHuawei.jpg",
     "category": {
       "name": "Laptos",
       "id": "laptos"
@@ -52,7 +52,7 @@
   {
     "id": "Gaming-Tower-PC",
     "titule": "Gaming Tower PC",
-    "image": "./img/pc/01.jpg",
+    "image": "./source/img/pc/01.jpg",
     "category": {
       "name": "PC",
       "id": "pcs"
@@ -62,7 +62,7 @@
   {
     "id": "Dell-OptiPlex-7040",
     "titule": "Dellhones 7040",
-    "image": "./img/pc/02.jpg",
+    "image": "./source/img/pc/02.jpg",
     "category": {
       "name": "PC",
       "id": "pcs"
@@ -73,7 +73,7 @@
   {
     "id": "Acer-Aspire",
     "titule": "ACER ASPIRE",
-    "image": "./img/pc/03.jpg",
+    "image": "./source/img/pc/03.jpg",
     "category": {
       "name": "PC",
       "id": "pcs"
@@ -83,7 +83,7 @@
   {
     "id": " OPTIPLEX-390-DT",
     "titule": " OPTIPLEX 390 DT",
-    "image": "./img/pc/04.jpg",
+    "image": "./source/img/pc/04.jpg",
     "category": {
       "name": "PC",
       "id": "pcs"
@@ -93,7 +93,7 @@
   {
     "id": "HeroBox-Mini-PC",
     "titule": "HeroBox Mini PC",
-    "image": "./img/pc/05.jpg",
+    "image": "./source/img/pc/05.jpg",
     "category": {
       "name": "PC",
       "id": "pcs"
@@ -103,7 +103,7 @@
   {
     "id": "SAMSUNG-Galaxy",
     "titule": "Galaxy Z Fold 4",
-    "image": "./img/phones/01.jpg",
+    "image": "./source/img/phones/01.jpg",
     "category": {
       "name": "Phones",
       "id": "phones"
@@ -113,7 +113,7 @@
   {
     "id": "Xiaomi-Poco-X5",
     "titule": "Xiaomi Poco X5",
-    "image": "./img/phones/02.jpg",
+    "image": "./source/img/phones/02.jpg",
     "category": {
       "name": "Phones",
       "id": "phones"
@@ -123,7 +123,7 @@
   {
     "id": "ASUS-ROG",
     "titule": "ASUS ROG",
-    "image": "./img/phones/03.jpg",
+    "image": "./source/img/phones/03.jpg",
     "category": {
       "name": "Phones",
       "id": "phones"
@@ -133,7 +133,7 @@
   {
     "id": "Realme-7-4G",
     "titule": "Realme 7 4G",
-    "image": "./img/phones/04.jpg",
+    "image": "./source/img/phones/04.jpg",
     "category": {
       "name": "Phones",
       "id": "phones"
@@ -143,7 +143,7 @@
   {
     "id": "Moto-G-Stylus",
     "titule": "Moto G Stylus",
-    "image": "./img/phones/05.jpg",
+    "image": "./source/img/phones/05.jpg",
     "category": {
       "name": "Phones",
       "id": "phones"
