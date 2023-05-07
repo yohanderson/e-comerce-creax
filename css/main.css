@@ -4,9 +4,10 @@
   --clr-main: #000000;
   --clr-main-light: #a0a0a0;
   --clr-white: white;
-  --clr-gray: white;
+  --clr-gray: rgb(212, 212, 212);
   --clr-red: #961818;
 }
+
 
 * {
   margin: 0;

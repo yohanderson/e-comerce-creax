@@ -40,16 +40,16 @@ function loadProductsCart() {
         product.titule
       }">
                 <div class="cart-product-titule">
-                    <h3>${product.titule}</h3>
+                    <h3 style="width: 11rem;">${product.titule}</h3>
                 </div>
                 <div class="cart-product-amount">
                     <p>${product.amount}</p>
                 </div>
                 <div class="cart-product-price">
-                    <p>$${product.price}</p>
+                    <p  style="width: 3.125rem;">$${product.price}</p>
                 </div>
                 <div class="cart-product-subtotal">
-                    <p>$${product.price * product.amount}</p>
+                    <p  style="width: 3.5rem;>$${product.price * product.amount}</p>
                 </div>
                 <button class="cart-product-delete" id="${
                   product.id
@@ -88,7 +88,7 @@ function removeFromCart(e) {
     position: "right",
     stopOnFocus: true,
     style: {
-      background: "linear-gradient(to right, #4b33a8, #785ce9)",
+      background: "gray",
       borderRadius: "2rem",
       textTransform: "uppercase",
       fontSize: ".75rem",
@@ -109,6 +109,7 @@ function removeFromCart(e) {
   localStorage.setItem("products-In-cart", JSON.stringify(productsInCart));
 }
 
+
 buttonEmpty.addEventListener("click", emptyCart);
 function emptyCart() {
   Swal.fire({
@@ -119,6 +120,7 @@ function emptyCart() {
       0
     )} products.`,
     showCancelButton: true,
+    confirmButtonColor: 'gray',
     focusConfirm: false,
     confirmButtonText: "Sí",
     cancelButtonText: "No",
