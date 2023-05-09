@@ -1,4 +1,4 @@
-# e-coomerce-CreaX
+# e-coomerce CreaX
 Comercio electronico basico
 
 e-commerce basico html css javascript en el que se implementa el uso de fetch para pedir recursos atravez de la red, boostrap para iconos, SweetAlert2 libreria para alertas, Toastify.js para las notificaciones google.fonts para las fuentes 
